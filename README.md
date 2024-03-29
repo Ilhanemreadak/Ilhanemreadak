@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ilhanemreadak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML.
+- 🌱 I’m currently learning Deep Learning.
 - 📫 How to reach me adak.ie@hotmail.com
 
 <!---
