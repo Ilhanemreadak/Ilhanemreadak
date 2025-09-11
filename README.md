@@ -1,7 +1,7 @@
 # İlhan Emre ADAK
 
 ## About Me
-I am a **Computer Engineering student at Bursa Technical University** with a passion for building end‑to‑end, data‑driven solutions—from embedded IoT prototypes to full‑stack web apps and AI‑powered analytics. My recent work spans computer vision, cryptography, network security, and scalable machine‑learning pipelines.
+I am a Computer Engineer with a passion for building end‑to‑end, data‑driven solutions—from embedded IoT prototypes to full‑stack web apps and AI‑powered analytics. My recent work spans computer vision, cryptography, network security, and scalable machine‑learning pipelines.
 
 - **Current Focus:** C++ , Qt
 - **Research Interests:** machine learning, cryptography, edge computing, developer tooling
