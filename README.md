@@ -5,13 +5,13 @@ I am a Computer Engineer with a passion for building end‑to‑end, data‑driv
 
 - **Current Focus:** C++ , Qt
 - **Research Interests:** machine learning, cryptography, edge computing, developer tooling
-- **Core Skills:** C · C++ · Java · Python · JavaScript/TypeScript · ASP.NET · C# · PyTorch · TensorFlow · scikit‑learn · Flask/FastAPI · Streamlit · ESP32/ESP8266
+- **Core Skills:** C# · C · C++ · Java · Python · ASP.NET · PyTorch · TensorFlow · scikit‑learn · Flask/FastAPI · Streamlit · ESP32/ESP8266
 - **Highlights:** GitHub Developer Program Member · GitHub Pro · Active open‑source contributor
 
 ---
 
 ## Get in Touch
-- **LinkedIn:** [linkedin.com/in/ilhan-emre-adak-9970131b7](https://www.linkedin.com/in/ilhan-emre-adak-9970131b7/)
+- **LinkedIn:** [linkedin.com/in/ilhan-emre-adak-9970131b7](https://www.linkedin.com/in/ilhan-emre-adak/)
 - **E‑mail:** dev.adak.ie@outlook.com
 - **Location:** Bursa, Turkey
 
